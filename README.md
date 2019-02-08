@@ -1,7 +1,7 @@
 # Jardim
 ## This is a simple python script for opening a vault
 In order to run this script you will need to run raspian on the latest version
-###Instalation
+### Instalation
 ```
 git clone https://github.com/PepinoSelvagem/Jardim.git
 ```
